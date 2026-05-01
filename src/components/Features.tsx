@@ -121,7 +121,7 @@ const Features = () => {
             <div className="flex-1 text-center lg:text-left space-y-8 px-4 min-w-[300px]">
               <div className="transition-all ease-[cubic-bezier(0.2,0.8,0.2,1)] transform will-change-transform opacity-100 translate-x-0" style={{ transitionDelay: '0ms', transitionDuration: '1000ms' }}>
                 <h3 className="text-2xl md:text-3xl lg:text-4xl font-bold tracking-tight leading-[1.15] text-white">
-                  Assinar a Comunidade MVZ é como ter uma <span className="text-brand-500 inline-block">central de inteligência</span> que monitora o que está performando e organiza tudo em tempo real para você.
+                  Entrar na Comunidade MVZ é como ter uma <span className="text-brand-500 inline-block">central de inteligência</span> que monitora o que está performando e organiza tudo em tempo real para você.
                 </h3>
               </div>
               <div className="transition-all ease-[cubic-bezier(0.2,0.8,0.2,1)] transform will-change-transform opacity-100 translate-y-0" style={{ transitionDelay: '200ms', transitionDuration: '1000ms' }}>

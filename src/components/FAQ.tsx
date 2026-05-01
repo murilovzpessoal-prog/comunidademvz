@@ -18,15 +18,11 @@ const FAQ = () => {
       },
       {
         question: "Terei acesso às novidades futuras?",
-        answer: "Sim. A Comunidade MVZ está em constante evolução. Assinando o plano mensal, você garante acesso a todas as novidades exclusivas, novas estratégias e atualizações de materiais que forem adicionadas à comunidade."
+        answer: "Sim. A Comunidade MVZ está em constante evolução. Entrando no plano mensal, você garante acesso a todas as novidades exclusivas, novas estratégias e atualizações de materiais que forem adicionadas à comunidade."
       },
       {
         question: "Como funciona a garantia?",
-        answer: "Temos a Garantia de Risco Zero de 7 dias. Assine e tenha acesso imediato a todo o conteúdo. Se em até 7 dias você achar que a comunidade não superou suas expectativas, basta solicitar o reembolso diretamente lá dentro da plataforma de pagamento com apenas alguns cliques e devolveremos 100% do seu dinheiro. Sem pegadinhas."
-      },
-      {
-        question: "Posso cancelar minha assinatura?",
-        answer: "Sim! Você tem total controle. Se não gostar ou quiser dar um tempo, você pode cancelar sua assinatura a qualquer momento, e nenhuma cobrança futura será feita. O cancelamento pode ser feito de forma rápida na própria plataforma de pagamentos, sem burocracia."
+        answer: "Temos a Garantia de Risco Zero de 7 dias. Entre e tenha acesso imediato a todo o conteúdo. Se em até 7 dias você achar que a comunidade não superou suas expectativas, basta solicitar o reembolso diretamente lá dentro da plataforma de pagamento com apenas alguns cliques e devolveremos 100% do seu dinheiro. Sem pegadinhas."
       }
     ];
   

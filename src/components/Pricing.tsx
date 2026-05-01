@@ -22,7 +22,7 @@ const Pricing = () => {
                 <h3 className="text-2xl font-bold mb-2">Acesso Vitalício</h3>
                 <p className="text-gray-400 mb-6 border-b border-white/10 pb-6 text-sm md:text-base">Acesso total e imediato.</p>
                 <div className="mb-2">
-                  <span className="text-4xl md:text-5xl font-bold">R$ 97</span>
+                  <span className="text-4xl md:text-5xl font-bold">R$ 147</span>
                   <span className="text-gray-500 font-medium tracking-wide"> / valor único</span>
                 </div>
                 <div className="text-xs md:text-sm text-gray-500 mb-8 border-b border-white/10 pb-8 invisible">Espaço reservado</div>
@@ -81,7 +81,7 @@ const Pricing = () => {
                     </li>
                   </ul>
                 </div>
-                <a href="https://pay.cakto.com.br/8kqx7kx" target="_blank" rel="noopener noreferrer" className="custom-btn w-full py-4 shadow-brand-500/25 shadow-lg group text-center flex justify-center">
+                <a href="https://pay.cakto.com.br/rjdos6v" target="_blank" rel="noopener noreferrer" className="custom-btn w-full py-4 shadow-brand-500/25 shadow-lg group text-center flex justify-center">
                   <span className="relative z-10 flex items-center justify-center gap-2 text-sm md:text-base">
                     Garantir Acesso
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right w-4 h-4 group-hover:translate-x-1 transition-transform" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>

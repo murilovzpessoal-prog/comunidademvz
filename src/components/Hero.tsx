@@ -8,20 +8,21 @@ const Hero = () => {
         <div className="max-w-7xl mx-auto px-4 md:px-6 text-center relative z-10">
           <div className="transition-all ease-[cubic-bezier(0.2,0.8,0.2,1)] transform will-change-transform opacity-100 translate-y-0" style={{ width: 'auto', transitionDelay: '0ms', transitionDuration: '1000ms' }}>
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-brand-500/30 bg-brand-500/10 text-brand-500 text-xs font-semibold tracking-wider uppercase mb-6 md:mb-8">
-              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-zap fill-current" aria-hidden="true"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg> Nova Era do TikTok Shop
+              <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-zap fill-current" aria-hidden="true"><path d="M4 14a1 1 0 0 1-.78-1.63l9.9-10.2a.5.5 0 0 1 .86.46l-1.92 6.02A1 1 0 0 0 13 10h7a1 1 0 0 1 .78 1.63l-9.9 10.2a.5.5 0 0 1-.86-.46l1.92-6.02A1 1 0 0 0 11 14z"></path></svg> Comunidade MVZ
             </div>
           </div>
           
           <div className="transition-all ease-[cubic-bezier(0.2,0.8,0.2,1)] transform will-change-transform opacity-100 blur-0" style={{ width: 'auto', transitionDelay: '100ms', transitionDuration: '1500ms' }}>
             <h1 className="text-4xl sm:text-5xl md:text-7xl font-bold tracking-tighter mb-4 md:mb-6 bg-clip-text text-transparent bg-gradient-to-b from-white to-white/60 leading-[1.1]">
-              Crie avatares e vídeos de IA <br className="hidden md:block" />
-              que vendem <span className="text-brand-500">24 horas por dia</span>
+              O processo que gerou <br />
+              <span className="text-brand-500">3 milhões em GMV</span> <br />
+              no TikTok Shop
             </h1>
           </div>
           
           <div className="transition-all ease-[cubic-bezier(0.2,0.8,0.2,1)] transform will-change-transform opacity-100 translate-y-0" style={{ width: 'auto', transitionDelay: '200ms', transitionDuration: '1000ms' }}>
             <p className="text-base sm:text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-8 md:mb-10 leading-relaxed px-4">
-              Aprenda dentro de uma comunidade como criar, postar e escalar vídeos que geram vendas todos os dias. sem precisar aparecer !
+              Uma comunidade que executa um método validado diariamente, transformando conteúdo em vendas com consistência.
             </p>
           </div>
           
